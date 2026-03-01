@@ -1,0 +1,7 @@
+[INFO-spock] App started
+[DEBUG-kirk] Checking dependencies
+[ERROR-mccoy] Missing config file
+[INFO-spock] Attempting to recover
+[WARN-uhura] Using default settings
+[FAIL] Connection timeout
+[INFO-spock] Shutdown complete
